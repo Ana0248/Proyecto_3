@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+#container{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(45deg, #6ea7fd, #69018f);
+}
+
+
+#btn-color{
+    background-color: #0e1011;
+    color: white;
+    margin-top: 10px;
+    padding: 20px;
+    border: 2px groove rgb(255, 253, 253);
+    outline: none;
+    border-radius:20px;
+    font-weight: bold;
+    /* background: chocolate; */
+    
+}
